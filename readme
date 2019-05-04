@@ -1,2 +1,8 @@
+************************************
+EDIT: To view the final draft, see Final_Finished.py
+Added R^2 value to the linear regression model
+As this model is not a predictive model, but is more of an introspective model, plots didn't seem to offer any extra
+insight so they have been ommitted.
+************************************
 To view the final draft of this project, see Final_v5. There are a few redundancies in the code, but I decided to keep them,
 as I do not wish to change any of the syntax or naming conventions after I finally got the code to run. 
